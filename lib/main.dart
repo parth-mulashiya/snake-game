@@ -4,6 +4,7 @@ import 'dart:async';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
+import 'package:icons_plus/icons_plus.dart';
 
 void main() {
   runApp(const MyApp());
@@ -234,6 +235,7 @@ class _SnakeGameState extends State<SnakeGame> {
                           color: color,
                           shape: BoxShape.circle,
                         ),
+                        child: color == Colors.red ? Icon(Iconsax.emoji_happy_bold ,size: 12,color: Colors.black,): SizedBox(),
                       );
                      },
                   ),
