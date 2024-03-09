@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot
 
-![screenshot](Snake Game SS.jpg)
+![screenshot](Snake_Game_SS.jpg)
