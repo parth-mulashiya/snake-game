@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-<img src="slpash_screen.jpg" height="300em" />   <img src="Snake_Game_SS.jpg" height="300em" />   <img src="game_over.jpg" height="300em" />
+<img src="slpash_screen.jpg" height="350em" />   <img src="Snake_Game_SS.jpg" height="350em" />   <img src="game_over.jpg" height="350em" />
